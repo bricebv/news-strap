@@ -2,7 +2,8 @@
 
 ## Setup new project
 
-- `git clone git@github.com:nxtedition/nxt-graphics`
+- `git clone git@github.com:CasparCG/html-graphics-boilerplate`
+- `cd html-graphics-boilerplate`
 - `git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
 - modify `package.json`
 - `npm i`
