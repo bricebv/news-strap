@@ -1,4 +1,4 @@
-# nxt-graphics
+# html-graphics-boilerplate
 
 ## Setup new project
 
