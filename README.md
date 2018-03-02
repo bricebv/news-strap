@@ -11,7 +11,7 @@
 ## Development
 
 - `npm run dev`
-- `open http://localhost:8080` or `CG 1 ADD http://localhost:8080/index.html`
+- `open http://localhost:8080` or `CG 1 ADD http://localhost:8080/index.html 1`
 
 ## Building
 
