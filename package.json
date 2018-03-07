@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "license": "GPLv3",
   "scripts": {
-    "build": "NODE_ENV=production webpack --config webpack.config.js",
+    "build-win": "set NODE_ENV=production && webpack --config webpack.config.js",
+    "build-unix": "NODE_ENV=production webpack --config webpack.config.js",
     "dev": "webpack-dev-server"
   },
   "dependencies": {

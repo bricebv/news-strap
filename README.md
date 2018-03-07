@@ -15,7 +15,7 @@
 
 ## Building
 
-- `npm run build` 
+- `npm run build-unix` on Unix and `npm run build-win` for Windows.
 - Files are written to `dist`
 
 ## Emulating Caspar
