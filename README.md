@@ -1,8 +1,8 @@
-# html-graphics-boilerplate
+# CasparCG html-graphics-boilerplate
 
 ## Setup new project
 
-- `git clone git@github.com:CasparCG/html-graphics-boilerplate`
+- `git clone https://github.com/CasparCG/html-graphics-boilerplate.git`
 - `cd html-graphics-boilerplate`
 - `git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
 - modify `package.json`
