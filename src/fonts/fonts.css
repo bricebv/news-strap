@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('./HelveticaNeueMedium.woff');
+}
+@font-face {
+  font-family: 'Helvetica Thin';
+  src: url('./HelveticaNeue-Thin.woff');
+}
+@font-face {
+  font-family: 'BBC Reith Light';
+  src: url('./BBCReithSans_W_Lt.woff');
+}

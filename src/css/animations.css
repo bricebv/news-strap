@@ -1,0 +1,21 @@
+.strap-appear {
+  opacity: 0.01;
+}
+.strap-appear.strap-appear-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+.strap-enter {
+  opacity: 0.01;
+}
+.strap-enter.strap-enter-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+.strap-leave {
+  opacity: 1;
+}
+.strap-leave.strap-leave-active {
+  opacity: 0.01;
+  transition: opacity .5s ease-in;
+}
